@@ -1,0 +1,26 @@
+{
+  "name": "tone-modular",
+  "version": "0.6.0",
+  "description": "Special build of Tone.js that allows requiring of individual components and avoids the global AudioContext. This make it much more browserify friendly and easier to use with existing code or other libraries.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/tone-modular.git"
+  },
+  "keywords": [
+    "Web Audio",
+    "Web Audio API",
+    "Synthesis",
+    "Playback",
+    "Effect",
+    "Instrument",
+    "DSP",
+    "Signal Processing",
+    "Interactive Music"
+  ],
+  "author": "Yotam Mann <yotammann@gmail.com> (http://yotammann.info/)",
+  "license": "MIT",
+  "dependencies": {}
+}
